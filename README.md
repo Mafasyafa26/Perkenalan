@@ -7,4 +7,5 @@
 # Hobi : Menyanyi 
 # IG : @mafasyf_
 
-![AltText] (https://github.com/Mafasyafa26/Perkenalan/blob/master/IMG_20200525_103132.jpg)
+![IMG_20200525_103132](https://user-images.githubusercontent.com/60589488/88146285-dd7c7980-cc25-11ea-9907-e32487dbd74b.jpg)
+
