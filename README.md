@@ -7,5 +7,3 @@
 # Hobi : Menyanyi 
 # IG : @mafasyf_
 
-#---------------
-
